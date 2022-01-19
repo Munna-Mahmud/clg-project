@@ -28,3 +28,17 @@
   margin-left: 5px;
   padding: 10px;
 }
+
+/* contact section  */
+.contact-img{
+    background-image: url('https://images.pexels.com/photos/4226100/pexels-photo-4226100.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.contact-section{
+    padding: 40px;
+    width: 50%;
+    
+}
+
